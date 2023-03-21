@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js",
-    "dev": "npm run server",
-    "build": "webpack --config webpack.config.js"
+    "dev": "nodemon index.js"
   },
   "author": "Pragati Bisen",
   "license": "ISC",
